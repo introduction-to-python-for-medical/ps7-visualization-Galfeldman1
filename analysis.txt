@@ -1,1 +1,1 @@
-
+ the correlation graph the seeks to see the connection between the status of a country and the life expectancy of its people. the graph visually shows that developed countries have higher life expectancy, while developing countries tend to have a more diverse and generally lower range of life expectancy values. This trend highlights the impact of economic and infrastructural development on public health outcomes.
